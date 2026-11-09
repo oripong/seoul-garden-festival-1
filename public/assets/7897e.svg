@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="345" height="390" viewBox="0 0 345 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="stroke0_0_55" fill="white">
+<path d="M345 195C345 302.696 267.769 390 172.5 390C77.2309 390 0 302.696 0 195C0 87.3045 77.2309 0 172.5 0C267.769 0 345 87.3045 345 195Z"/>
+</mask>
+<ellipse id="Garden Arch Middle" cx="172.5" cy="195" rx="172.5" ry="195" stroke-width="24" stroke="#E4E9DC" mask="url(#stroke0_0_55)"/>
+</svg>
